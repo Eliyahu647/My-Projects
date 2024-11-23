@@ -1,7 +1,7 @@
-# Maven Market Analysis Project
+# Maven Market Analysis Project 📊
 This repository contains datasets and a Power BI dashboard created to analyze sales, profit, and customer behavior for Maven Market. The analysis spans key metrics and trends for 1997-1998.
 
-# Files in this Repository
+# Files in this Repository📁 
 MavenMarket_Calendar.csv: Calendar dates for time-based filtering.
 
 MavenMarket_Customers.csv: Customer demographic details.
@@ -16,20 +16,20 @@ MavenMarket_Stores.csv: Store details.
 
 final course project.pbix: Power BI file with dashboards and visualizations.
 
-# Dashboards Overview
-Sales Overview: Insights into sales trends, product performance, and loyalty points by country.
+# Dashboards Overview📈
+Sales Overview🛒: Insights into sales trends, product performance, and loyalty points by country.
 ![Sales Overview Dashboard](https://raw.githubusercontent.com/Eliyahu647/My-Projects/main/Sales%20overview%20dashboard.png)
 
 
-Profit Overview: Analysis of revenue, profit margins, and trends by product and country.
+Profit Overview💰: Analysis of revenue, profit margins, and trends by product and country.
 ![Profit Overview Dashboard](https://raw.githubusercontent.com/Eliyahu647/My-Projects/main/ProfitOverview.png)
 
 
-Data Model: A relational data model connecting sales, purchases, calendar data, and country information.
+Data Model🔗: A relational data model connecting sales, purchases, calendar data, and country information.
 ![Data Model](https://raw.githubusercontent.com/Eliyahu647/My-Projects/main/DataModel.png)
 
 
-# How to Use
+# How to Use🛠️
 1) Open .csv files for raw data analysis.
 
 2) Use Power BI Desktop to view and interact with the final course project.pbix dashboard.
